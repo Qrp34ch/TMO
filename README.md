@@ -6,4 +6,4 @@
 - Лабораторная работа №5 [Ансамбли моделей машинного обучения. Часть 1.](https://github.com/Qrp34ch/TMO/tree/lab5)
 - Лабораторная работа №6 [Ансамбли моделей машинного обучения. Часть 2.](https://github.com/Qrp34ch/TMO/tree/lab6)
 - Рубежный контроль №1 [Технологии разведочного анализа и обработки данных.](https://github.com/Qrp34ch/TMO/tree/RK1)
-- [НИРС](https://github.com/Qrp34ch/TMO/tree/RK1)
+- [НИРС](https://github.com/Qrp34ch/TMO/tree/NIRS)
